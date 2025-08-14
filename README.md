@@ -1,4 +1,4 @@
-📦 Sistema de Pedidos com FilamentPHP 3
+# 📦 Sistema de Pedidos com FilamentPHP 3
 
 Este projeto é um CRUD de pedidos desenvolvido com Laravel 12 e FilamentPHP v3, inspirado no vídeo
 How to Become a PRO in FilamentPHP v3 in 4 hours - Complete FilamentPHP Tutorial for Beginners do canal Code With Dary.
