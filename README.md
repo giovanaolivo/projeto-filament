@@ -15,12 +15,12 @@ O objetivo foi estudar e praticar FilamentPHP, implementando recursos de:
 
 🔍 Filtros, buscas e ordenação.
 
-🛠 Tecnologias utilizadas
+## 🛠 Tecnologias utilizadas
 
-Laravel 12
+- Laravel 12
 
-FilamentPHP v3
+- FilamentPHP v3
 
-PHP 8.4
+- PHP 8.4
 
-MySQL 
+- MySQL 
