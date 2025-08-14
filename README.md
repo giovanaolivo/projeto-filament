@@ -14,3 +14,13 @@ O objetivo foi estudar e praticar FilamentPHP, implementando recursos de:
 🎨 Interface administrativa moderna com badges coloridos e status traduzidos para português.
 
 🔍 Filtros, buscas e ordenação.
+
+🛠 Tecnologias utilizadas
+
+Laravel 12
+
+FilamentPHP v3
+
+PHP 8.4
+
+MySQL 
