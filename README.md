@@ -5,12 +5,12 @@ How to Become a PRO in FilamentPHP v3 in 4 hours - Complete FilamentPHP Tutorial
 
 O objetivo foi estudar e praticar FilamentPHP, implementando recursos de:
 
-📋 Cadastro e gerenciamento de pedidos.
+  Cadastro e gerenciamento de pedidos.
 
-🛍️ Relacionamento com clientes e produtos.
+  Relacionamento com clientes e produtos.
 
-💰 Cálculo de frete e preço total.
+ Cálculo de frete e preço total.
 
-🎨 Interface administrativa moderna com badges coloridos e status traduzidos para português.
+  Interface administrativa moderna com badges coloridos e status traduzidos para português.
 
-🔍 Filtros, buscas e ordenação.
+  Filtros, buscas e ordenação.
