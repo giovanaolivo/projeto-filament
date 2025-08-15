@@ -11,7 +11,7 @@ O objetivo foi estudar e praticar FilamentPHP, implementando recursos de:
 
 💰 Cálculo de frete e preço total.
 
-🎨 Interface administrativa moderna com badges coloridos e status traduzidos para português.
+🎨 Interface administrativa moderna com badges coloridos.
 
 🔍 Filtros, buscas e ordenação.
 
